@@ -20,7 +20,7 @@ vet: ## Run go vet against code.
 
 .PHONY: test
 test: ## Run tests.
-	go test ./... -coverprofile cover.out
+	go test ./... -coverprofile coverage.out
 
 ##@ Build
 
