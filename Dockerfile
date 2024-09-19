@@ -1,4 +1,4 @@
-FROM public.ecr.aws/docker/library/alpine:3.18.4
+FROM public.ecr.aws/docker/library/alpine:3.20.3
 
 RUN mkdir /app
 
