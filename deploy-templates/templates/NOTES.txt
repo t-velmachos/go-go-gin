@@ -1,0 +1,1 @@
+1. Application test-go-hello has been successfully deployed!!
